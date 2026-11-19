@@ -1,7 +1,7 @@
 
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/mobileraexe-bot/Mobilera-Releases/releases/download/v1.0.0/Mobilera-1.0.0.zip",
-  "sha256": "D253F1591DB134FFEC5EA51A26AE3DD330F6E6AD31E925ADFA80BB1D597EE007",
-  "releaseNotes": "Mobilera ilk sürüm"
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/mobileraexe-bot/Mobilera-Releases/releases/download/v1.0.1/Mobilera-1.0.1.zip",
+  "sha256": "4EA94028D56D97D778E88F7B045D09911754B692112A88D1FCB52878B45A9CDD",
+  "releaseNotes": "Mobilera 1.0.1 - Güncelleme sistemi test sürümü."
 }
